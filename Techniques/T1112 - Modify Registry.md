@@ -1,0 +1,3 @@
+# Modify Registry
+
+Adversaries may interact with the Windows Registry to hide configuration information within Registry keys, remove information as part of cleaning up, or as part of other techniques to aid in persistence and execution.
