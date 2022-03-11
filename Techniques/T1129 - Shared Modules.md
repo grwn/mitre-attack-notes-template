@@ -1,3 +1,1 @@
-# Shared Modules
-
 Adversaries may execute malicious payloads via loading shared modules. The Windows module loader can be instructed to load DLLs from arbitrary local paths and arbitrary Universal Naming Convention (UNC) network paths. This functionality resides in NTDLL.dll and is part of the Windows Native API which is called from functions like `CreateProcess`, `LoadLibrary`, etc. of the Win32 API.

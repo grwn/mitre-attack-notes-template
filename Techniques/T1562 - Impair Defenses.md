@@ -1,5 +1,3 @@
-# Impair Defenses
-
 Adversaries may maliciously modify components of a victim environment in order to hinder or disable defensive mechanisms. This not only involves impairing preventative defenses, such as firewalls and anti-virus, but also detection capabilities that defenders can use to audit activity and identify malicious behavior. This may also span both native defenses as well as supplemental capabilities installed by users and administrators.
 
 [[T1562.001 - Disable or Modify Tools]]

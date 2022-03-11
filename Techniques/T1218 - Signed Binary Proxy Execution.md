@@ -1,5 +1,3 @@
-# Signed Binary Proxy Execution
-
 Adversaries may bypass process and/or signature-based defenses by proxying execution of malicious content with signed binaries. Binaries signed with trusted digital certificates can execute on Windows systems protected by digital signature validation. Several Microsoft signed binaries that are default on Windows installations can be used to proxy execution of other files.
 
 [[T1218.001 - Compiled HTML File]]

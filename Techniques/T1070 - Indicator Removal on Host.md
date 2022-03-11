@@ -1,5 +1,3 @@
-# Indicator Removal on Host
-
 Adversaries may delete or alter generated artifacts on a host system, including logs or captured files such as quarantined malware. Locations and format of logs are platform or product-specific, however standard operating system logs are captured as Windows events or Linux/macOS files such as Bash History and /var/log/*.
 
 [[T1070.001 - Clear Windows Event Logs]]

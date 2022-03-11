@@ -1,5 +1,3 @@
-# Unsecured Credentials
-
 Adversaries may search compromised systems to find and obtain insecurely stored credentials. These credentials can be stored and/or misplaced in many locations on a system, including plaintext files (e.g. Bash History), operating system or application-specific repositories (e.g. Credentials in Registry), or other specialized files/artifacts (e.g. Private Keys).
 
 [[T1552.001 - Credentials in Files]]

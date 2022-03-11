@@ -1,5 +1,3 @@
-# Event Triggered Execution
-
 Adversaries may establish persistence and/or elevate privileges using system mechanisms that trigger execution based on specific events. Various operating systems have means to monitor and subscribe to events such as logons or other user activity such as running specific applications/binaries.
 
 [[T1546.001 - Change Default File Association]]

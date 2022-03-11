@@ -1,5 +1,3 @@
-# File and Directory Permission Modification
-
 Adversaries may modify file or directory permissions/attributes to evade access control lists (ACLs) and access protected files. File and directory permissions are commonly managed by ACLs configured by the file or directory owner, or users with the appropriate permissions. File and directory ACL implementations vary by platform, but generally explicitly designate which users or groups can perform which actions (read, write, execute, etc.).
 
 [[T1222.001 - Windows File and Directory Permission Modification]]

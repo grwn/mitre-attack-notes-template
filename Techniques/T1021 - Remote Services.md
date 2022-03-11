@@ -1,5 +1,3 @@
-# Remote Services
-
 Adversaries may use Valid Accounts to log into a service specifically designed to accept remote connections, such as telnet, SSH, and VNC. The adversary may then perform actions as the logged-on user.
 
 [[T1021.001 - Remote Desktop Protocol]]

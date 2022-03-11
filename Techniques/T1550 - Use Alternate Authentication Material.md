@@ -1,5 +1,3 @@
-# Use Alternate Authentication Material
-
 Adversaries may use alternate authentication material, such as password hashes, Kerberos tickets, and application access tokens, in order to move laterally within an environment and bypass normal system access controls.
 
 [[T1550.001 - Application Access Token]]
